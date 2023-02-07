@@ -1,0 +1,6 @@
+plugin:
+    name: 'dondo.raynetcrmapiconector::lang.plugin.name'
+    description: 'dondo.raynetcrmapiconector::lang.plugin.description'
+    author: Dondo
+    icon: oc-icon-connectdevelop
+    homepage: ''
